@@ -24,8 +24,9 @@ h1 {
 }
 
 h1.logo{
-    font-family: 'Tangerine', serif;
-        font-size: 48px;
+    font-family: cursive;
+        font-size: 55px;
+        font-display: middle;
 
 }
 
