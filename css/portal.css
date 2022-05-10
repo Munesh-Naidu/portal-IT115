@@ -26,7 +26,7 @@ h1 {
 h1.logo{
     font-family: cursive;
         font-size: 55px;
-        font-display: middle;
+        
 
 }
 
@@ -38,6 +38,8 @@ main.wrapper {
 
 p {
     margin: 1em; /* Top Right Bottom Left (TRBL) */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
 }
 
 h2,h3 {
